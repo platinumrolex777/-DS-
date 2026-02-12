@@ -1,0 +1,25 @@
+# Чувствительные данные (пароли, ключи)
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python кэш и скомпилированные файлы
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# IDE настройки
+.idea/
+.vscode/
+*.swp
+*.swo
